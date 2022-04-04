@@ -1,0 +1,14 @@
+https://github.com/topics/firebase
+Firebase appplicarions are interesting on how they deal with interfaces and have database communications.
+
+https://github.com/topics/kubernetes
+I find the various tools that can used and supported interesting along with it being made to aid users.
+
+https://github.com/flutter
+Flutter is flexible and works quickly to build various applications witht he help of its enginie and tools avaliable to developers.
+
+https://github.com/helix-editor/helix
+I find it interesting how it suuports different languages and is written in Rust.
+
+https://github.com/mytechnotalent/Hacking-Windows
+I find it interesting how they break down windows to break it down.
